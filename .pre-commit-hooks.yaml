@@ -4,3 +4,4 @@
     entry: fprettify
     language: python
     types: [fortran]
+    args: ["--stdout"]
